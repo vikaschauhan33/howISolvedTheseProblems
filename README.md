@@ -3,7 +3,7 @@
 Will try to attempt the solutions in **C++** and **python**.
 **C++** being my preffered choice, I will try to post most of the solutions first in C++.
 ## C++ Solutions
-1. [BinarySearch](./binarySearch.cpp) :shipit:
+1. [BinarySearch](./binarySearch.cpp) :mag_right:
 
 
 
