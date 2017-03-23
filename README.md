@@ -3,8 +3,11 @@
 Will try to attempt the solutions in **C++** and **python**.
 **C++** being my preffered choice, I will try to post most of the solutions first in C++.
 ## C++ Solutions
-1. [BinarySearch](./binarySearch.cpp) :mag_right:
+1. [BinarySearch](./binarySearch.cpp) :zero: :one: :mag_right:
 2. [First Occurance of K](./firstOccuranceOfK.cpp) :mag: :one: To find first occurance of a value in a sorted array.
+
+### Tree
+1. [isBinarySearchTree](./isBinaryTreeABST.cpp) :evergreen_tree: :question:
 
 
 
