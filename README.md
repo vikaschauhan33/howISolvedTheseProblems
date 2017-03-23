@@ -9,6 +9,9 @@ Will try to attempt the solutions in **C++** and **python**.
 ### Tree
 1. [isBinarySearchTree](./isBinaryTreeABST.cpp) :evergreen_tree: :question:
 
+### Dictionary/Hash
+1. [findAnagrams](./findAnagrams.cpp) :books: => :key: :speech_balloon: :speech_balloon:
+
 
 
 ### g++ version infomation
