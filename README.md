@@ -15,6 +15,9 @@ Will try to attempt the solutions in **C++** and **python**.
 ### Dictionary/Hash
 1. [findAnagrams](./findAnagrams.cpp) :books: => :key: :speech_balloon: :speech_balloon:
 
+### Bit Manipulation
+1. [noOfBitsToConvertFromAToB](./noOfBitsFromAtoB.cpp) 🅰️ **to** 🅱️ **count** 🕐
+
 
 
 ### g++ version infomation
