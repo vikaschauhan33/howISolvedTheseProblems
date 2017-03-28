@@ -20,6 +20,7 @@ Will try to attempt the solutions in **C++** and **python**.
 
 ### Linked List 🔗🔗🔗
 1. [addLinkedListNumbers](./addTwoLinkedListNum.cpp) 🔗🔗🔗 + 🔗🔗🔗 = 🔗🔗🔗🔗 => 485 + 625 = 1110 
+2. [detectLoopInLinkedList](./detectLoop.cpp) 🔁 in 🔗🔗🔗🔗 ; **first** node of 🔁  and **break** the 🔁 
 
 
 
