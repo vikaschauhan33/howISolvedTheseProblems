@@ -18,6 +18,9 @@ Will try to attempt the solutions in **C++** and **python**.
 ### Bit Manipulation
 1. [noOfBitsToConvertFromAToB](./noOfBitsFromAtoB.cpp) 🅰️ **to** 🅱️ **count** 🕐
 
+### Linked List 🔗🔗🔗
+1. [addLinkedListNumbers](./addTwoLinkedListNum.cpp) 🔗🔗🔗 + 🔗🔗🔗 = 🔗🔗🔗🔗 => 485 + 625 = 1110 
+
 
 
 ### g++ version infomation
